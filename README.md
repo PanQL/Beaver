@@ -1,3 +1,3 @@
 # Beaver
 
-this is the artifact of Beaver
+This is the artifact of Beaver
