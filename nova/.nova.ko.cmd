@@ -1,0 +1,1 @@
+cmd_/home/panda/kernel/shadowfs/fs/nova/nova.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/panda/kernel/shadowfs/fs/nova/nova.ko /home/panda/kernel/shadowfs/fs/nova/nova.o /home/panda/kernel/shadowfs/fs/nova/nova.mod.o;  true

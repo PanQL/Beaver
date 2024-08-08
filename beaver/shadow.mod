@@ -1,0 +1,12 @@
+/home/panda/kernel/shadowfs/fs/shadowfs/super.o
+/home/panda/kernel/shadowfs/fs/shadowfs/inode1.o
+/home/panda/kernel/shadowfs/fs/shadowfs/write.o
+/home/panda/kernel/shadowfs/fs/shadowfs/palloc.o
+/home/panda/kernel/shadowfs/fs/shadowfs/util.o
+/home/panda/kernel/shadowfs/fs/shadowfs/dir.o
+/home/panda/kernel/shadowfs/fs/shadowfs/namei1.o
+/home/panda/kernel/shadowfs/fs/shadowfs/log.o
+/home/panda/kernel/shadowfs/fs/shadowfs/stats.o
+/home/panda/kernel/shadowfs/fs/shadowfs/copy.o
+/home/panda/kernel/shadowfs/fs/shadowfs/syncup.o
+/home/panda/kernel/shadowfs/fs/shadowfs/cp.o

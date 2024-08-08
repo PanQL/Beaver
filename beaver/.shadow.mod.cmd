@@ -1,0 +1,1 @@
+cmd_/home/panda/kernel/shadowfs/fs/shadowfs/shadow.mod := printf '%s\n'   super.o inode1.o write.o palloc.o util.o dir.o namei1.o log.o stats.o copy.o syncup.o cp.o | awk '!x[$$0]++ { print("/home/panda/kernel/shadowfs/fs/shadowfs/"$$0) }' > /home/panda/kernel/shadowfs/fs/shadowfs/shadow.mod

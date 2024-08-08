@@ -1,0 +1,1 @@
+cmd_/home/panda/kernel/shadowfs/fs/shadowfs/Module.symvers :=  sed 's/ko$$/o/'  /home/panda/kernel/shadowfs/fs/shadowfs/modules.order | scripts/mod/modpost -m     -o /home/panda/kernel/shadowfs/fs/shadowfs/Module.symvers -e -i Module.symvers -T - 

@@ -1,0 +1,1 @@
+cmd_/home/panda/kernel/shadowfs/fs/nova/nova.mod := printf '%s\n'   balloc.o bbuild.o checksum.o dax.o dir.o file.o gc.o inode.o ioctl.o journal.o log.o mprotect.o namei.o parity.o rebuild.o snapshot.o stats.o super.o symlink.o perf.o | awk '!x[$$0]++ { print("/home/panda/kernel/shadowfs/fs/nova/"$$0) }' > /home/panda/kernel/shadowfs/fs/nova/nova.mod

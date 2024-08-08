@@ -1,0 +1,5 @@
+# SPDX-License-Identifier: GPL-2.0-only
+config SHADOW_FS
+	tristate "PMEM-based proxy file systems"
+	help
+    If unsure, say N.
